@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk3099&label=Profile%20views&color=0e75b6&style=flat" alt="nk3099" /> </p>
 
-- 👨‍💻 All of my projects are available at **github.com/nk3099**
+- 👨‍💻 All of my projects are available at **[github.com/nk3099](https://github.com/nk3099)**
 
 - ⚡ Fun fact **Keep Learning :)**
 
@@ -19,4 +19,4 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk3099&show_icons=true&locale=en&layout=compact" alt="nk3099" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk3099&" alt="nk3099" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk3099&" alt="nk3099" /></p>-->
