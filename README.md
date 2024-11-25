@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Neeraj 👋 </h1>
-<h4 align="center"> Data Engineer | Transforming Data into Insights ✨ </h3>
-
+<h4 align="center">Aspiring Data Engineer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk3099&label=Profile%20views&color=0e75b6&style=flat" alt="nk3099" /> </p>
 
 - 👨‍💻 All of my projects are available at **[github.com/nk3099](https://github.com/nk3099)**
