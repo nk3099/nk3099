@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Neeraj 👋 </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk3099&label=Profile%20views&color=0e75b6&style=flat" alt="nk3099" /> </p>
-<h9 align="LEFT">
+<!--<h9 align="LEFT">
  * Results-driven Engineer with 3+ years of experience in Incident Management and Critical System Outage Support. Expert in troubleshooting, escalation management, and risk mitigation to minimize downtime and enhance operational efficiency. Skilled in optimizing service delivery, managing SLAs, and leading cross-functional teams to resolve complex technical issues. </h9>
 <br>
 <br>
-<h9 align="LEFT">
- * Proficient in PySpark, Python, SQL, and Azure Cloud (Data Factory, Data Lake, Databricks). Strong experience in developing and optimizing data pipelines, ensuring data quality, and delivering high-quality data solutions that drive business growth. Known for proactive problem-solving, process improvements, and seamless collaboration with technical and non-technical teams to deliver impactful results. </h9>
+<h9 align="LEFT">-->
+ Proficient in PySpark, Python, SQL, and Azure Cloud (Data Factory, Data Lake, Databricks). Strong experience in developing and optimizing data pipelines, ensuring data quality, and delivering high-quality data solutions that drive business growth. Known for proactive problem-solving, process improvements, and seamless collaboration with technical and non-technical teams to deliver impactful results. </h9>
+<br></br>
 
+👨‍💻 All of my projects are available at **[github.com/nk3099](https://github.com/nk3099)**
 
-- 👨‍💻 All of my projects are available at **[github.com/nk3099](https://github.com/nk3099)**
-
-- ⚡ Fun fact **Keep Learning :)**
+⚡ Fun fact **Keep Learning :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
